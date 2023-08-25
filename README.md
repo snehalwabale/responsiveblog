@@ -1,35 +1,54 @@
-# responsiveblog
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
 
-Abstract:
+  <br />
+  <br />
 
-In the age of digital communication, blogs have become a powerful platform for sharing ideas, experiences, and knowledge. A Responsive Blog Website is designed to provide a dynamic and user-friendly experience for both content creators and readers. This project aims to develop a modern web application that facilitates the creation, publishing, and consumption of blog posts while ensuring optimal usability across a variety of devices and screen sizes.
+  <h2 align="center">Blogy - Blog Website</h2>
 
-The Responsive Blog Website project combines frontend and backend technologies to create an interactive and engaging online platform. The frontend utilizes HTML, CSS, and possibly JavaScript to design a visually appealing and responsive user interface. The website's design will adapt seamlessly to different devices, ensuring that users have a consistent experience whether they're accessing the website on a desktop, tablet, or smartphone.
+  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-The backend of the project involves using a web framework, such as Flask or Django, to manage the data and logic behind the scenes. This includes handling user authentication, storing and retrieving blog posts, managing user comments, and providing dynamic content to the frontend.
+  <a href="https://codewithsadee.github.io/blogy/"><strong>➥ Live Demo</strong></a>
 
-Key features of the Responsive Blog Website project may include:
+</div>
 
-1. **User Authentication:** Registered users can create accounts and log in to manage their blog posts.
+<br />
 
-2. **Create and Edit Posts:** Authors can compose and edit blog posts using a user-friendly interface.
+### Demo Screeshots
 
-3. **Responsive Design:** The website's layout and design adapt fluidly to different screen sizes and devices.
+![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-4. **Post Listings:** Users can explore a list of blog posts on the homepage, with summaries and images.
+### Prerequisites
 
-5. **Individual Post Pages:** Each post has a dedicated page for reading the full content and leaving comments.
+Before you begin, ensure you have met the following requirements:
 
-6. **Comments:** Readers can engage with posts by leaving comments and participating in discussions.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-7. **Search and Filters:** Users can search for specific posts and filter content based on categories or tags.
+### Run Locally
 
-8. **Pagination:** Long lists of posts can be split across multiple pages to improve loading times.
+To run **Blogy** locally, run this command on your git bash:
 
-9. **Administrative Dashboard:** Admin users can manage posts, comments, and user accounts through an intuitive dashboard.
+Linux and macOS:
 
-10. **Backend Data Management:** Data related to posts, users, and comments is stored and managed using a database system.
+```bash
+sudo git clone https://github.com/codewithsadee/blogy.git
+```
 
-11. **Security:** Measures are taken to ensure user data is stored securely, and proper validation and sanitation are applied to prevent vulnerabilities.
+Windows:
 
-Overall, the Responsive Blog Website project encapsulates the essence of modern web development, combining aesthetics, functionality, and usability. By creating an online space that is accessible and enjoyable on various devices, the project aims to encourage a thriving community of bloggers and readers, fostering the exchange of ideas and information in a digital landscape.
+```bash
+git clone https://github.com/codewithsadee/blogy.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
